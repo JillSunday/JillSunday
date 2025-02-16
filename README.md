@@ -2,7 +2,14 @@
 <h1 align="center">Hi! I'm Jill</h1>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Animated GIF" />
 <h3 align="center">A Biomedical Engineer and passionate AI & Medical Imaging researcher</h3>
-I work on <strong>Deep Learning, AI in Medical Imaging, and Neuroimaging</strong>. I am currently working on a brain tumor prediction project, using the recently published SAMed model, as well as the CLIP driven universal model. Also planning to incorporate BioViL-T to generate structured radiological reports.  
+I deal with <strong>Deep Learning, AI in Medical Imaging, and Neuroimaging</strong>. 
+
+- 🔭 **Currently working on:** A brain tumor prediction project leveraging the SAMed model and a CLIP-driven universal model, with plans to integrate BioViL-T for generating structured radiological reports.
+- 🌱 **Currently learning:** R programming
+- 👯 **Looking to collaborate on:** AI-driven neuroimaging and medical image analysis projects
+- 🤝 **Seeking help with:** Integrating BioViL-T into deep-learning based segmentation models
+- 💬 **Ask me about:** Deep Learning and AI in Medical Imaging
+
 
 <h2>My Projects</h2>
   <li>
