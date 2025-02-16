@@ -1,11 +1,12 @@
 
 <h1 align="center">Hi! I'm Jill</h1>
-<h3 align="center">A Biomedical Engineer and passionate AI & Medical Imaging researcher</h3>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Animated GIF" />
-I work on <strong>Deep Learning, AI in Medical Imaging, and Neuroimaging</strong>.   
+<h3 align="center">A Biomedical Engineer and passionate AI & Medical Imaging researcher</h3>
+I work on <strong>Deep Learning, AI in Medical Imaging, and Neuroimaging</strong>. I am currently working on a brain tumor prediction project, using the recently published SAMed model, as well as the CLIP driven universal model. Also planning to incorporate BioViL-T to generate structured radiological reports.  
+
 <h2>My Projects</h2>
-<ul>
   <li>
+    <ul>
     <a href="https://github.com/JillSunday/Patient_Zero/tree/main/SPARK_BTS_KIFARU" style="text-decoration: underline;">
       <strong>BraTS Model SPARK2023</strong>
     </a>
@@ -22,10 +23,6 @@ I work on <strong>Deep Learning, AI in Medical Imaging, and Neuroimaging</strong
   </li>
 </ul>
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMnl6ZW94YnVmZnhzYXc1bGhsbTg4dXc2c2h1eDU1MHFlZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oUVFtt6s74HLy/giphy.gif" alt="Animated GIF" />
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jill-sunday" target="_blank">
