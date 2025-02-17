@@ -29,7 +29,6 @@ I deal with <strong>Deep Learning, AI in Medical Imaging, and Neuroimaging</stro
     </a>
   </li>
 </ul>
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMnl6ZW94YnVmZnhzYXc1bGhsbTg4dXc2c2h1eDU1MHFlZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oUVFtt6s74HLy/giphy.gif" alt="Animated GIF" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jill-sunday" target="_blank">
